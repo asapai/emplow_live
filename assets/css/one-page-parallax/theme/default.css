@@ -44,7 +44,11 @@ Website: http://www.seantheme.com/color-admin-v4.2/frontend/one-page-parallax/
 .navbar-nav .dropdown-menu .dropdown-item.active,
 .pricing-table .price .price-number,
 a {
+<<<<<<< HEAD
     color: #33448f;
+=======
+    color: #FFF;
+>>>>>>> 87c4e17f15b3dac1abba7821bcaffbb966e8ec7d
 }
 a:hover,
 a:focus {
