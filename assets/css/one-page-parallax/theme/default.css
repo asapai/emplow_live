@@ -44,7 +44,7 @@ Website: http://www.seantheme.com/color-admin-v4.2/frontend/one-page-parallax/
 .navbar-nav .dropdown-menu .dropdown-item.active,
 .pricing-table .price .price-number,
 a {
-    color: #FFF;
+    color: #33448f;
 }
 a:hover,
 a:focus {
@@ -63,5 +63,4 @@ a:focus {
 }
 .brand-logo,
 .footer .footer-brand-logo {
-    border-color: #4DCACA #31A3A3 #1D8888;
 }
